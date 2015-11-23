@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="mypage.Master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+
+<body bgcolor="#C0C0C0" link="#ff9966">
+<form runat="server">
+    
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <h1>
+            <p id="MainCont" 
+                
+                style="font-family: Century; font-size: xx-large; font-weight: bolder; font-style: oblique; font-variant: inherit; text-transform: none; color: #000080; text-decoration: underline overline; background-image: none; background-color: #FFCC66; border: medium inset #00FF00; position: relative; z-index: auto; display: inline; list-style-type: circle">
+                Мы рады , что вы посетили нашу страничку!
+            </p>
+            </h1>
+        </asp:ContentPlaceHolder>
+    </div>
+    
+       <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+
+    </asp:ContentPlaceHolder>
+    </div>
+        </form>
+</body>
+</html>
+   

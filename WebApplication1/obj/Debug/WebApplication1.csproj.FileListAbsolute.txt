@@ -1,0 +1,43 @@
+c:\users\stud\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\stud\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\stud\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\stud\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\stud\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\lab3 andreeva 8k00\WebApplication1\bin\WebApplication1.dll
+G:\lab3 andreeva 8k00\WebApplication1\bin\WebApplication1.pdb
+G:\lab3 andreeva 8k00\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\lab3 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.dll
+G:\lab3 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\lab3 andreeva 8k00\WebApplication1\bin\WebApplication1.dll
+E:\lab3 andreeva 8k00\WebApplication1\bin\WebApplication1.pdb
+E:\lab3 andreeva 8k00\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\lab3 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.dll
+E:\lab3 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\bin\WebApplication1.dll
+H:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\bin\WebApplication1.pdb
+H:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.dll
+H:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\bin\WebApplication1.dll
+G:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\bin\WebApplication1.pdb
+G:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.dll
+G:\4 лаба по веб\lab3 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\4 лаба по веб\lab4\WebApplication1\bin\WebApplication1.dll
+G:\4 лаба по веб\lab4\WebApplication1\bin\WebApplication1.pdb
+G:\4 лаба по веб\lab4\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\4 лаба по веб\lab4\WebApplication1\obj\Debug\WebApplication1.dll
+G:\4 лаба по веб\lab4\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\Web\lab4\WebApplication1\bin\WebApplication1.dll
+G:\Web\lab4\WebApplication1\bin\WebApplication1.pdb
+G:\Web\lab4\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\Web\lab4\WebApplication1\obj\Debug\WebApplication1.dll
+G:\Web\lab4\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\Web\lab4\WebApplication1\bin\WebApplication1.dll
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\Web\lab4\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\Web\lab4\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\Web\lab4\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\ГУБА ЛАБЫ\lab4\WebApplication1\bin\WebApplication1.dll
+D:\ГУБА ЛАБЫ\lab4\WebApplication1\bin\WebApplication1.pdb
+D:\ГУБА ЛАБЫ\lab4\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ГУБА ЛАБЫ\lab4\WebApplication1\obj\Debug\WebApplication1.pdb
